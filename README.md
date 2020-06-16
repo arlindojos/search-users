@@ -8,3 +8,8 @@ Tecnologias:
 -Webpack
 -axios
 -bable
+
+
+## Como usar?
+1- `yarn dev` ou `npm run dev`;
+2- acessar a porta  `localhost:8080`
